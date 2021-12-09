@@ -1,1 +1,1 @@
-# Demand_Forecasting_ELM
+# Code to perform time series forecasting using extreme learning machines
